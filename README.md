@@ -1,7 +1,7 @@
 # Potatoblightdetection
 Downloaded the data from kaggle.Trained the model.
 Kept the folders related to Potatoes.
-Runned it on google colab.
+Runned the code in google colab.
 Achieved Model test accuracy of 89.45%
 
 
