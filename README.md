@@ -1,5 +1,4 @@
 # Potatoblightdetection
-Training the Model
-Downloaded the data from kaggle.
-kept folders related to Potatoes.
+Downloaded the data from kaggle.And trained the model.
+kept the folders related to Potatoes.
 Runned it on google colab.
